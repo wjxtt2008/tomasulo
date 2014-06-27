@@ -1,4 +1,6 @@
 **********************************************************************
+The purpose of this project is to demonstrate cycle accurate result of Out-of-Order execution under given configuration   
+
 This project is conducted by Zheng Liu,Dai Yuanjun,Junxiang Wu
 
 Universiry of Pittsburgh
