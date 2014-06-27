@@ -34,8 +34,9 @@ Execute Instruction
 1. complie
 2. put input.txt and config.txt to the same directory with complied "tomasulo" 
 3. run in terminal "./tomasulo"
+
 ***********************************************************************
-Support Operation Code
+Operation Supported
 
 1. Add/Sub: integral and immediate.
 2. Add.d/Sub.d: float and immediate.
