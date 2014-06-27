@@ -13,8 +13,8 @@ junxiangwu1991@gmail.com
 **********************************************************************
 Requirement
 
-1.Run environment: ubuntu 12.04 64bit 
-2.Compile: gcc 4.6.3
+1. Run environment: ubuntu 12.04 64bit 
+2. Compile: gcc 4.6.3
 **********************************************************************
 Complie
 
@@ -31,9 +31,9 @@ The program will read input under its current path and print out result to termi
 ***********************************************************************
 Execute Instruction 
 
-1.complie
-2.put input.txt and config.txt to the same directory with complied "tomasulo" 
-3.run in terminal "./tomasulo"
+1. complie
+2. put input.txt and config.txt to the same directory with complied "tomasulo" 
+3. run in terminal "./tomasulo"
 ***********************************************************************
 Support Operation Code
 
