@@ -4,8 +4,8 @@
 #include<iostream>
 #include<string>
 #include<fstream>
-#include<cstdlib> //stoi
-#include<cstring> //strtok
+//#include<cstdlib> //stoi
+//#include<cstring> //strtok
 using namespace std;
 typedef pair <int,float> mem_unit; //int: memory index; float: memory value;
 enum Operation
