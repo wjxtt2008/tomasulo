@@ -1,0 +1,4 @@
+Add R3,R1,R0
+Add R4,R3,1
+Add R4,R2,R1
+Sub R2,R4,R1
